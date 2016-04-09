@@ -8,6 +8,7 @@ language: objective-c
 branches:
  only:
  - master
+ - dev
 
 install:
     - gem install cocoapods -v 0.38.2 --no-document
